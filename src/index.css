@@ -19,3 +19,11 @@ code {
 .footer {
   background-color: lightgray;
 }
+
+.intro, .article {
+  text-align: left;
+}
+
+.home img{
+  border-radius: 50%;
+}

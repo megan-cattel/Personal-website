@@ -1,7 +1,16 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link, withRouter } from "react-router-dom";
 
+
 function Nav(props) {
+  const [pathname, setPathname] = useState(window.location.pathname);
+
+  const updatePathname = (e) => {
+    //e.preventDefault();
+    setPathname("/");
+    console.log(pathname);
+  }
+
   return (
     <div>
       <div className="row justify-content-center p-3">
@@ -12,7 +21,7 @@ function Nav(props) {
           <li className={`nav-item  ${
               props.location.pathname === "/" ? "active" : ""
             }`}>
-            <Link className="nav-link" to="/">Home</Link>
+            <Link className="nav-link" onClick={updatePathname} to="/">Home</Link>
           </li>
           <li className={`nav-item  ${
               props.location.pathname === "/about" ? "active" : ""
