@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <div className="footer">
+    <div>
         Hello World.
     </div>
   );
