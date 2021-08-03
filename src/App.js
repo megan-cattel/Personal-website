@@ -14,13 +14,15 @@ function App() {
   return (
     <div className="App container">
       <Router>
-        {pathname !== "/" && <Nav />}
+        <Route path="/about" component={() => <Nav />} />
+        <Route path="/journalism" component={() => <Nav />} />
         <Switch>
           <Route path="/" exact component={() => <Home />} />
           <Route path="/about" exact component={() => <About />} />
           <Route path="/journalism" exact component={() => <Journalism />} />
         </Switch>
-        {pathname !== "/" && <Footer />}
+        <Route path="/about" component={() => <Footer />} />
+        <Route path="/journalism" component={() => <Footer />} />
       </Router>
     </div>
   );
