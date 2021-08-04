@@ -25,5 +25,11 @@ code {
 }
 
 .home img{
+  width: 200px;
   border-radius: 50%;
+}
+
+.homepage {
+  display:flex;
+  align-items:center;
 }

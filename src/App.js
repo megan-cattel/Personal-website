@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState } from "react";
+import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 import Nav from './components/Nav.js';
@@ -9,10 +9,9 @@ import Journalism from './components/Journalism';
 import About from './components/About';
 
 function App() {
-  const pathname = window.location.pathname;
 
   return (
-    <div className="App container">
+    <div className="App container vh-100">
       <Router>
         <Route path="/about" component={() => <Nav />} />
         <Route path="/journalism" component={() => <Nav />} />
