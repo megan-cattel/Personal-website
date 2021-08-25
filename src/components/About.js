@@ -1,5 +1,6 @@
 import React from "react";
 import profile from "../images/profile.jpeg"
+import resume from "../files/Resume_2021_MeganCattel.pdf"
 
 function About() {
   return (
@@ -10,7 +11,7 @@ function About() {
             </div>
             <div className="col col-6 intro pt-3">
                 <div className="text-center">
-                  <p><a>Resume</a></p>
+                  <p className="resume"><b><a href={resume}>Resume</a></b></p>
                   <p>Hi, my name is Megan.</p>
                 </div>
                 <ul>

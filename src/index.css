@@ -37,3 +37,7 @@ code {
 .nav-border {
   border-bottom: 1px solid black;
 }
+
+.resume {
+  font-size: large;
+}

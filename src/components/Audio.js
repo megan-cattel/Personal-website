@@ -1,4 +1,5 @@
 import React from "react";
+import newsspot from "../files/megancattel_audio_newsreel2021.wav"
 
 function Audio() {
   return (
@@ -8,7 +9,11 @@ function Audio() {
                 <p><b>Audio</b></p>
                 <ul>
                     <li>
-                        <a href="">Newsspot Reel 2021</a> (aired on St. Louis Public Radio’s daily newscast)
+                        Newsspot Reel 2021 (aired on St. Louis Public Radio’s daily newscast)
+                        <audio controls>
+                            <source src={newsspot} type="audio/wav" />
+                            Your browser does not support the audio tag.
+                        </audio>
                     </li>
                     <li>
                         <a href="https://nuvoices.com/2021/03/24/nuvoices-podcast-52-talking-fiction-writing-and-modern-china-with-te-ping-chen/">Interview with Te-ping Chen, co-hosted with Joanna Chiu</a> (NüVoices Podcast)
