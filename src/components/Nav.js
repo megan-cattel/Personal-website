@@ -8,7 +8,7 @@ function Nav(props) {
       <div className="row justify-content-center p-3">
         <div className="title">Megan Cattel</div>
       </div>
-      <div className="row justify-content-center">
+      <div className="row justify-content-center nav-border">
         <ul className="nav">
           <li className={`nav-item  ${
               props.location.pathname === "/" ? "active" : ""
@@ -21,9 +21,9 @@ function Nav(props) {
             <Link className="nav-link" to="/about">About</Link>
           </li>
           <li className={`nav-item  ${
-              props.location.pathname === "/journalism" ? "active" : ""
+              props.location.pathname === "/writing" ? "active" : ""
             }`}>
-            <Link className="nav-link" to="/journalism">Journalism</Link>
+            <Link className="nav-link" to="/writing">Writing</Link>
           </li>
         </ul>
       </div>

@@ -33,3 +33,7 @@ code {
   display:flex;
   align-items:center;
 }
+
+.nav-border {
+  border-bottom: 1px solid black;
+}
