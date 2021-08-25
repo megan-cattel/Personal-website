@@ -8,7 +8,7 @@ function Writing() {
                 <p><b>News & Features</b></p>
                 <ul>
                     <li>
-                        <a href="https://www.teenvogue.com/story/asian-american-studies-departments">Asian American Studies could be transformative. Why are programs so hard to find in colleges today?</a>  (Teen Vogue) 
+                        <a href="https://www.teenvogue.com/story/asian-american-studies-departments">Asian American Studies could be transformative. Why are programs so hard to find in colleges today?</a> (Teen Vogue) 
                     </li>
                     <li>
                         <a href="https://news.stlpublicradio.org/2021-05-16/1904-worlds-fair-revised-one-artist-memorializes-filipino-and-indigenous-people">1904 World’s Fair Revisited: Local Artist Memorializes Filipino and Indigenous People</a> (St. Louis Public Radio)

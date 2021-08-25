@@ -10,20 +10,30 @@ function Nav(props) {
       </div>
       <div className="row justify-content-center nav-border">
         <ul className="nav">
-          <li className={`nav-item  ${
-              props.location.pathname === "/" ? "active" : ""
-            }`}>
-            <Link className="nav-link" to="/">Home</Link>
+        <li className="nav-item">
+            <Link className={`nav-link ${
+              props.location.pathname === "/" ? "disabled" : ""
+            }`} to="/">Home</Link>
           </li>
-          <li className={`nav-item  ${
-              props.location.pathname === "/about" ? "active" : ""
-            }`}>
-            <Link className="nav-link" to="/about">About</Link>
+          <li className="nav-item">
+            <Link className={`nav-link ${
+              props.location.pathname === "/about" ? "disabled" : ""
+            }`} to="/about">About</Link>
           </li>
-          <li className={`nav-item  ${
-              props.location.pathname === "/writing" ? "active" : ""
-            }`}>
-            <Link className="nav-link" to="/writing">Writing</Link>
+          <li className="nav-item">
+            <Link className={`nav-link ${
+              props.location.pathname === "/writing" ? "disabled" : ""
+            }`} to="/writing">Writing</Link>
+          </li>
+          <li className="nav-item">
+            <Link className={`nav-link ${
+              props.location.pathname === "/audio" ? "disabled" : ""
+            }`} to="/audio">Audio</Link>
+          </li>
+          <li className="nav-item">
+            <Link className={`nav-link ${
+              props.location.pathname === "/references" ? "disabled" : ""
+            }`} to="/references">References</Link>
           </li>
         </ul>
       </div>
