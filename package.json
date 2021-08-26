@@ -1,5 +1,5 @@
 {
-  "homepage": "http://megan-cattel.github.io/me",
+  "homepage": "http://megan-cattel.github.io/me/",
   "name": "megan-website",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +7,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "bootstrap": "^5.0.2",
+    "bootstrap": "^4.6.0",
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.0-beta.4",
     "react-dom": "^17.0.2",
@@ -32,7 +32,6 @@
   "browserslist": {
     "production": [
       ">0.2%",
-      "not dead",
       "not op_mini all"
     ],
     "development": [
