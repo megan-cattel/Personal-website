@@ -6,10 +6,10 @@ function About() {
   return (
     <div>
         <div className="row justify-content-center">
-            <div className="col col-4 p-3 mt-5">
+            <div className="col col-12 col-md-4 p-3 mt-5">
                 <img src={profile} className="img-fluid" alt="profile_picture" />
             </div>
-            <div className="col col-6 intro pt-3">
+            <div className="col col-12 col-md-6 intro pt-3">
                 <div className="text-center">
                   <p className="resume"><b><a href={resume}>2021 Resume</a> / <a href="https://www.linkedin.com/in/megan-cattel-9627a049/">LinkedIn</a></b></p>                
                 </div>
