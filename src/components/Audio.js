@@ -6,7 +6,9 @@ function Audio() {
     <div>
         <div className="row justify-content-center p-3">
             <div className="col col-8 article">
-                <p><b>Audio</b></p>
+                <div className="text-center">
+                    <p><b><i>Audio</i></b></p>
+                </div>
                 <ul>
                     <li>
                         Newsspot Reel 2021 (aired on St. Louis Public Radio’s daily newscast)
@@ -38,7 +40,9 @@ function Audio() {
         </div>
         <div className="row justify-content-center p-3">
             <div className="col col-8 article">
-                <p><b>Interstitials</b></p>
+                <div className="text-center">
+                    <p><b><i>Interstitials</i></b></p>
+                </div>
                 <ul>
                     <li>
                         <a href="https://uptownradio.wixsite.com/uptownradio/post/animal-crossing-a-quarantine-escape?fbclid=IwAR0Bu5_2uOCTfR_lfbsL3UX63gu2jTp-D82UO0IOwfnhVw2edv0bWCWoTno">Animal Crossing, a Quarantine Escape</a> (Uptown Radio)

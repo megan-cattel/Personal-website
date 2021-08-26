@@ -5,7 +5,9 @@ function References() {
     <div>
         <div className="row justify-content-center p-3">
             <div className="col col-8 article">
-                <p><b>Audio Production</b></p>
+                <div className="text-center">
+                    <p><b><i>Audio Production</i></b></p>
+                </div>
                 <ul>
                     <li>
                         “I’ve worked with Megan on research projects for three different podcasts. She has a strong sense of which scenes advance the story, a keen eye for key details, and an ability to uncover elements everyone else overlooks. If your show idea needs fleshing out, or you’re in search of compelling ideas, Megan is a truly valuable resource.”
@@ -20,7 +22,9 @@ function References() {
         </div>
         <div className="row justify-content-center p-3">
             <div className="col col-8 article">
-                <p><b>Reporting</b></p>
+                <div className="text-center">
+                    <p><b><i>Reporting</i></b></p>
+                </div>
                 <ul>
                     <li>
                         “[She has] a knack for finding and engaging characters that present vivid personal moments, and that brings the stories to life.”
@@ -39,7 +43,9 @@ function References() {
         </div>
         <div className="row justify-content-center p-3">
             <div className="col col-8 article">
-                <p><b>Ghostwriting, Editing, Fact-Checking</b></p>
+                <div className="text-center">
+                    <p><b><i>Ghostwriting, Editing, Fact-Checking</i></b></p>
+                </div>
                 <ul>
                     <li>
                         “Megan’s that trifecta of a human you want to work with: smart, thoughtful, and talented. She turned around a manuscript editing project in a few days, was great at keeping in touch every step of the way, and was thoughtful about the details when it mattered the most. I felt so good knowing that my editing project was in her hands and I know when you start working with her, you’ll feel the same too.”

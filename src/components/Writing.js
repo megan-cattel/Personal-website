@@ -5,7 +5,10 @@ function Writing() {
     <div>
         <div className="row justify-content-center p-3">
             <div className="col col-8 article">
-                <p><b>News & Features</b></p>
+                <div className="text-center">
+                    <p><b>**Selected bylines - click <a href="https://megancattel.contently.com/">here</a> to see my complete portfolio</b></p>
+                    <p><b><i>News & Features</i></b></p>
+                </div>
                 <ul>
                     <li>
                         <a href="https://www.teenvogue.com/story/asian-american-studies-departments">Asian American Studies could be transformative. Why are programs so hard to find in colleges today?</a> (Teen Vogue) 
@@ -36,7 +39,9 @@ function Writing() {
         </div>
         <div className="row justify-content-center p-3">
             <div className="col col-8 article">
-                <p><b>Essays</b></p>
+                <div className="text-center">
+                    <p><b><i>Essays</i></b></p>
+                </div>
                 <ul>
                     <li>
                         <a href="https://medium.com/columbiajourn/essay-stop-pretending-this-is-normal-4e6efea863d7">“Stop pretending this is normal,” a pandemic lockdown essay</a> (Columbia Journalism School)
@@ -49,7 +54,9 @@ function Writing() {
         </div>
         <div className="row justify-content-center p-3">
             <div className="col col-8 article">
-                <p><b>Interviews & Criticism</b></p>
+                <div className="text-center">
+                    <p><b><i>Interviews & Criticism</i></b></p>
+                </div>
                 <ul>
                     <li>
                         <a href="https://tastefulrude.com/crying-in-h-mart-review-grief-hunger-and-healing/">Review, Crying in H-Mart by Michelle Zauner</a> (Tasteful Rude)
