@@ -6,12 +6,12 @@ function Audio() {
     <div>
         <div className="row justify-content-center p-3">
             <div className="col col-12 col-md-8 article">
-                <div className="text-center">
+                <div className="article-title">
                     <p><b><i>Audio</i></b></p>
                 </div>
                 <ul>
                     <li>
-                        Newsspot Reel 2021 (aired on St. Louis Public Radio’s daily newscast)
+                        Newsspot reel 2021 (aired on St. Louis Public Radio’s daily newscast)
                         <audio controls>
                             <source src={newsspot} type="audio/wav" />
                             Your browser does not support the audio tag.
@@ -40,7 +40,7 @@ function Audio() {
         </div>
         <div className="row justify-content-center p-3">
             <div className="col col-12 col-md-8 article">
-                <div className="text-center">
+                <div className="article-title">
                     <p><b><i>Interstitials</i></b></p>
                 </div>
                 <ul>
@@ -51,6 +51,11 @@ function Audio() {
                         <a href="https://uptownradio.wixsite.com/uptownradio/post/queens-lawyer-is-virtually-admitted-to-the-ny-state-bar">Queens Lawyer is Virtually Admitted to the NY State Bar</a> (Uptown Radio)
                     </li>
                 </ul>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
             </div>
         </div>
     </div>

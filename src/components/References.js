@@ -5,7 +5,7 @@ function References() {
     <div>
         <div className="row justify-content-center p-3">
             <div className="col col-12 col-md-8 article">
-                <div className="text-center">
+                <div className="article-title">
                     <p><b><i>Audio Production</i></b></p>
                 </div>
                 <ul>
@@ -22,7 +22,7 @@ function References() {
         </div>
         <div className="row justify-content-center p-3">
             <div className="col col-12 col-md-8 article">
-                <div className="text-center">
+                <div className="article-title">
                     <p><b><i>Reporting</i></b></p>
                 </div>
                 <ul>
@@ -43,7 +43,7 @@ function References() {
         </div>
         <div className="row justify-content-center p-3">
             <div className="col col-12 col-md-8 article">
-                <div className="text-center">
+                <div className="article-title">
                     <p><b><i>Ghostwriting, Editing, Fact-Checking</i></b></p>
                 </div>
                 <ul>

@@ -6,7 +6,7 @@ function Nav(props) {
   return (
     <div>
       <div className="row justify-content-center p-3">
-        <div className="title">Megan Cattel</div>
+        <div className="title"><i>Megan Cattel</i></div>
       </div>
       <div className="row justify-content-center nav-border">
         <ul className="nav">

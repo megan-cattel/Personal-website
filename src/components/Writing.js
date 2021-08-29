@@ -6,7 +6,9 @@ function Writing() {
         <div className="row justify-content-center p-3">
             <div className="col col-8 article">
                 <div className="text-center">
-                    <p><b>**Selected bylines - click <a href="https://megancattel.contently.com/">here</a> to see my complete portfolio</b></p>
+                    <p>**Selected bylines - click <a href="https://megancattel.contently.com/">here</a> to see my complete portfolio</p>
+                </div>
+                <div className="article-title">
                     <p><b><i>News & Features</i></b></p>
                 </div>
                 <ul>
@@ -20,7 +22,7 @@ function Writing() {
                         <a href="https://news.stlpublicradio.org/health-science-environment/2021-05-07/without-saying-goodbye-st-louis-indian-community-reacts-to-covid-crisis-in-india">“Without Saying Goodbye,” Local Indian Community Reacts to the Covid Crisis in India</a> (St. Louis Public Radio)
                     </li>
                     <li>
-                        <a href="https://news.stlpublicradio.org/health-science-environment/2021-03-15/asian-americans-in-st-louis-push-for-vaccine-information-in-their-languages">Reviving the History of Vietnamese New Wave in Orange County / OC Weekly</a> (St. Louis Public Radio)
+                        <a href="https://news.stlpublicradio.org/health-science-environment/2021-03-15/asian-americans-in-st-louis-push-for-vaccine-information-in-their-languages">Asian Americans In St. Louis Push For Vaccine Information In Their Languages</a> (St. Louis Public Radio)
                     </li>
                     <li>
                         <a href="https://supchina.com/2021/04/28/u-s-relaxes-covid-travel-curbs-and-lets-chinese-students-back-in/">US Relaxes Covid Travel Restrictions, Allows Chinese Students to Return</a> (SupChina)
@@ -39,7 +41,7 @@ function Writing() {
         </div>
         <div className="row justify-content-center p-3">
             <div className="col col-8 article">
-                <div className="text-center">
+                <div className="article-title">
                     <p><b><i>Essays</i></b></p>
                 </div>
                 <ul>
@@ -54,7 +56,7 @@ function Writing() {
         </div>
         <div className="row justify-content-center p-3">
             <div className="col col-8 article">
-                <div className="text-center">
+                <div className="article-title">
                     <p><b><i>Interviews & Criticism</i></b></p>
                 </div>
                 <ul>
