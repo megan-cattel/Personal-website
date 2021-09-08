@@ -27,7 +27,7 @@ function Audio() {
                         <a href="https://uptownradio.wixsite.com/uptownradio/post/nyc-s-street-vendors-don-t-qualify-for-covid-19-business-aid">NYC's Street Vendors Are Not Receiving COVID-19 Business Aid</a> (Uptown Radio)
                     </li>
                     <li>
-                        <a href="https://uptownradio.wixsite.com/uptownradio/post/raising-the-2020-census-count-in-immigrant-communities">Community Groups and Outreach for NYC’s 2020 Census</a> (Uptown Radio)
+                        <a href="https://uptownradio.wixsite.com/uptownradio/post/raising-the-2020-census-count-in-immigrant-communities">Immigrant Communities are Historically Undercounted in the NYC Census. These Outreach Groups are Trying to Change That</a> (Uptown Radio)
                     </li>
                     <li>
                         <a href="https://uptownradio.wixsite.com/uptownradio/post/andy-byford-bids-farewell-as-president-of-nyc-public-transit">Andy Byford bids Farewell as President of NYC Public Transit</a> (Uptown Radio)
