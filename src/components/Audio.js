@@ -18,7 +18,16 @@ function Audio() {
                         </audio>
                     </li>
                     <li>
-                        <a href="https://nuvoices.com/2021/03/24/nuvoices-podcast-52-talking-fiction-writing-and-modern-china-with-te-ping-chen/">Interview with Te-ping Chen, co-hosted with Joanna Chiu</a> (NüVoices Podcast)
+                        <a href="https://foreignpolicy.com/podcasts/negotiators/?episode=how-a-motley-group-of-negotiators-freed-the-chibok-schoolgirls">Bring Back Our Girls: How Negotiators Freed the Chibok Schoolgirls</a> (The Negotiators, Foreign Policy)
+                    </li>
+                    <li>
+                        <a href="https://nuvoices.com/2021/03/24/nuvoices-podcast-52-talking-fiction-writing-and-modern-china-with-te-ping-chen/">The Long Road to Libya’s Election</a> (The Negotiators, Foreign Policy)
+                    </li>
+                    <li>
+                        <a href="https://foreignpolicy.com/podcasts/negotiators/?episode=the-long-road-to-libya%E2%80%99s-election">Negotiating with the Taliban</a> (The Negotiators, Foreign Policy)
+                    </li>
+                    <li>
+                        <a href="https://foreignpolicy.com/podcasts/negotiators/negotiating-with-taliban-fawzia-koofi-ashley-jackson/">Interview with Te-ping Chen, co-hosted with Joanna Chiu</a> (NüVoices Podcast)
                     </li>
                     <li>
                         <a href="https://uptownradio.wixsite.com/uptownradio/post/volunteers-step-up-to-distribute-food-for-nyc-s-seniors">Volunteers Step Up to Distribute Food for NYC’s Elderly Chinese Community</a> (Uptown Radio)
