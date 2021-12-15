@@ -33,7 +33,7 @@ function Nav(props) {
           <li className="nav-item">
             <Link className={`nav-link ${
               props.location.pathname === "/fact-checking" ? "disabled" : ""
-            }`} to="/fact-checking">Fact Checking</Link>
+            }`} to="/fact-checking">Fact-Checking</Link>
           </li>
           <li className="nav-item">
             <Link className={`nav-link ${
