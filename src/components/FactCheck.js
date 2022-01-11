@@ -21,6 +21,12 @@ function FactCheck() {
                     <li>
                         <a href="https://www.npr.org/2021/12/10/1062598719/santas-macys-aids-awareness-protest">The day Santas stormed Macy's to protest for AIDS awareness</a> (StoryCorps, NPR Morning Edition)
                     </li>
+                    <li>
+                        <a href="https://storycorps.org/stories/104866/?utm_medium=social&utm_source=twitter&utm_campaign=sotw&utm_content=PaulinoGonzalez">How A Shared Language Helped Two Young People Find Their Voice</a> (StoryCorps, NPR Morning Edition)
+                    </li>
+                    <li>
+                        <a href="https://storycorps.org/stories/the-brooklyn-emt-who-saved-a-life-and-inspired-a-nursing-career/">The Brooklyn EMT Who Saved A Life and Inspired A Nursing Career</a> (StoryCorps, NPR Morning Edition)
+                    </li>
                 </ul>
             </div>
         </div>
