@@ -13,9 +13,18 @@ function References() {
                         “I’ve worked with Megan on research projects for three different podcasts. She has a strong sense of which scenes advance the story, a keen eye for key details, and an ability to uncover elements everyone else overlooks. If your show idea needs fleshing out, or you’re in search of compelling ideas, Megan is a truly valuable resource.”
                         <p className="text-right"><i>— Jason English, Lead Executive Producer, iHeart Podcast Network</i></p>
                     </li>
-                    <li>
-                        “Timely and consistent, she is dedicated to getting the work done right! Excellent communicator with ever-growing editing skills.”
-                        <p className="text-right"><i>— Jennifer Lee, Producer, Adolescent Content</i></p>
+                </ul>
+            </div>
+        </div>
+        <div className="row justify-content-center p-3">
+            <div className="col col-12 col-md-8 article">
+                <div className="article-title">
+                    <p><b><i>Fact-checking</i></b></p>
+                </div>
+                <ul>
+                        <li>
+                        “Megan has been an integral member of the fact checking team at StoryCorps over the past few months. Each broadcast presents a rotating team of producers and editors who trust Megan to deliver work that is consistently thorough and detail oriented. She is a great communicator and has wonderful people skills, which adds to making her extremely successful in her role. We are lucky to have Megan on our team.”
+                        <p className="text-right"><i>— Lauren Smith, Producer at StoryCorps</i></p>
                     </li>
                 </ul>
             </div>
@@ -44,7 +53,7 @@ function References() {
         <div className="row justify-content-center p-3">
             <div className="col col-12 col-md-8 article">
                 <div className="article-title">
-                    <p><b><i>Ghostwriting, Editing, Fact-Checking</i></b></p>
+                    <p><b><i>Ghost-Writing and Editing</i></b></p>
                 </div>
                 <ul>
                     <li>

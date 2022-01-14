@@ -1,6 +1,6 @@
 import React from "react";
 import profile from "../images/profile.jpeg"
-import resume from "../files/Resume_2021_MeganCattel.pdf"
+import resume from "../files/Cattel_Resume_2022.pdf"
 
 function About() {
   return (
@@ -11,7 +11,7 @@ function About() {
             </div>
             <div className="col col-12 col-md-6 intro pt-3">
                 <div className="text-center">
-                  <p className="resume"><b><a href={resume}>2021 Resume</a> / <a href="https://www.linkedin.com/in/megan-cattel-9627a049/">LinkedIn</a></b></p>                
+                  <p className="resume"><b><a href={resume}>2022 Resume</a> / <a href="https://www.linkedin.com/in/megan-cattel-9627a049/">LinkedIn</a></b></p>                
                 </div>
                 <p><b>Here are some fast facts:</b></p>
                 <ul>
