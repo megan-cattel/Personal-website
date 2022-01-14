@@ -53,7 +53,7 @@ function References() {
         <div className="row justify-content-center p-3">
             <div className="col col-12 col-md-8 article">
                 <div className="article-title">
-                    <p><b><i>Ghost-Writing and Editing</i></b></p>
+                    <p><b><i>Ghostwriting and Editing</i></b></p>
                 </div>
                 <ul>
                     <li>
