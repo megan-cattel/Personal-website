@@ -27,7 +27,18 @@ function FactCheck() {
                     <li>
                         <a href="https://storycorps.org/stories/the-brooklyn-emt-who-saved-a-life-and-inspired-a-nursing-career/">The Brooklyn EMT Who Saved A Life and Inspired A Nursing Career</a> (StoryCorps, NPR Morning Edition)
                     </li>
+                    <li>
+                        <a href="https://www.npr.org/2022/01/21/1074664380/a-holocaust-survivor-honors-the-woman-who-saved-his-life">A Holocaust survivor honors the woman who saved his life</a> (StoryCorps, NPR Morning Edition)
+                    </li>
+                    <li>
+                        <a href="https://www.npr.org/2022/01/28/1075932919/storycorps-los-angeles-black-cowboys">Bucking stereotypes, a Black cowboy leads the way in South Central LA</a> (StoryCorps, NPR Morning Edition)
+                    </li>
                 </ul>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
             </div>
         </div>
     </div>

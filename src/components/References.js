@@ -14,6 +14,12 @@ function References() {
                         <p className="text-right"><i>— Jason English, Lead Executive Producer, iHeart Podcast Network</i></p>
                     </li>
                 </ul>
+                <ul>
+                    <li>
+                        Megan produces our twice-monthly NüVoices podcast, which promotes the expertise of women and gender minorities on China. Her meticulous editing and sound design has elevated our podcast quality significantly, helping attract new listeners. On top of this, Megan has gone above and beyond to co-host episodes as well as commission and oversee the creation of our podcast’s custom intro and outro music. Megan is as talented as she is wonderful to work with on a day-to-day basis, with excellent communication and coordination skills. She has brought a lot of energy and kindness to the NüVoices global community! 
+                        <p className="text-right"><i>— Joanna Chiu, founder and chair of <a href="http://nuvoices.com">NüVoices</a>, author of <a href="https://www.joannachiu.com/writing">China Unbound</a></i></p>
+                    </li>
+                </ul>
             </div>
         </div>
         <div className="row justify-content-center p-3">
@@ -22,7 +28,7 @@ function References() {
                     <p><b><i>Fact-checking</i></b></p>
                 </div>
                 <ul>
-                        <li>
+                    <li>
                         “Megan has been an integral member of the fact checking team at StoryCorps over the past few months. Each broadcast presents a rotating team of producers and editors who trust Megan to deliver work that is consistently thorough and detail oriented. She is a great communicator and has wonderful people skills, which adds to making her extremely successful in her role. We are lucky to have Megan on our team.”
                         <p className="text-right"><i>— Lauren Smith, Producer at StoryCorps</i></p>
                     </li>
