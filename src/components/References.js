@@ -16,8 +16,14 @@ function References() {
                 </ul>
                 <ul>
                     <li>
-                        Megan produces our twice-monthly NüVoices podcast, which promotes the expertise of women and gender minorities on China. Her meticulous editing and sound design has elevated our podcast quality significantly, helping attract new listeners. On top of this, Megan has gone above and beyond to co-host episodes as well as commission and oversee the creation of our podcast’s custom intro and outro music. Megan is as talented as she is wonderful to work with on a day-to-day basis, with excellent communication and coordination skills. She has brought a lot of energy and kindness to the NüVoices global community! 
+                        “Megan produces our twice-monthly NüVoices podcast, which promotes the expertise of women and gender minorities on China. Her meticulous editing and sound design has elevated our podcast quality significantly, helping attract new listeners. On top of this, Megan has gone above and beyond to co-host episodes as well as commission and oversee the creation of our podcast’s custom intro and outro music. Megan is as talented as she is wonderful to work with on a day-to-day basis, with excellent communication and coordination skills. She has brought a lot of energy and kindness to the NüVoices global community!”
                         <p className="text-right"><i>— Joanna Chiu, founder and chair of <a href="http://nuvoices.com">NüVoices</a>, author of <a href="https://www.joannachiu.com/writing">China Unbound</a></i></p>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        “Timely and consistent, she is dedicated to getting the work done right! Excellent communicator with ever-growing editing skills.”  
+                        <p className="text-right"><i>— Jennifer Lee, Producer, Adolescent Content</i></p>
                     </li>
                 </ul>
             </div>
