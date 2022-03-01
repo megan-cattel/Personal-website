@@ -33,6 +33,12 @@ function FactCheck() {
                     <li>
                         <a href="https://www.npr.org/2022/01/28/1075932919/storycorps-los-angeles-black-cowboys">Bucking stereotypes, a Black cowboy leads the way in South Central LA</a> (StoryCorps, NPR Morning Edition)
                     </li>
+                    <li>
+                        <a href="https://www.npr.org/2022/02/11/1079849607/covid-shared-apartment-ex-wife-storycorps">A man sticks out the pandemic with his ex-wife and mother</a> (StoryCorps, NPR Morning Edition)
+                    </li>
+                    <li>
+                        <a href="https://www.npr.org/2022/02/18/1081291769/midwife-slavery-storycorps">A granddaughter passes on the legacy of a midwife born into slavery</a> (StoryCorps, NPR Morning Edition)
+                    </li>
                 </ul>
                 <br />
                 <br />
