@@ -4,7 +4,7 @@ function Writing() {
   return (
     <div>
         <div className="row justify-content-center p-3">
-            <div className="col col-8 article">
+            <div className="col col-12 col-md-8 article">
                 <div className="text-center">
                     <p>**Selected bylines - click <a href="https://megancattel.contently.com/">here</a> to see my complete portfolio</p>
                 </div>
