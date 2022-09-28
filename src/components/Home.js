@@ -1,10 +1,10 @@
 import React from "react";
-import cartoon from "../images/cartoon.png"
+import cartoon from "../images/newcartoon.png"
 
 function Home() {
   return (
     <div className="vh-100">
-        <div className="row justify-content-center vh-100 p-5">
+        <div className="row justify-content-center vh-100 p-lg-5 p-md-3">
             <div className="col col-12 col-md-8 home align-items-center my-auto">
                 <img src={cartoon} className="img-fluid pt-5 pb-5" alt="homepage_picture" />
                 <div className="text-left">
