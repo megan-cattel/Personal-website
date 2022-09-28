@@ -15,11 +15,11 @@ function About() {
                 </div>
                 <p><b>Here are some fast facts:</b></p>
                 <ul>
-                  <li>I use she/her/hers pronouns. </li>
+                  <li>I use she/her pronouns. </li>
                   <li>I graduated from Columbia Journalism School’s M.S. program in 2020.</li>
                   <li>I grew up in Tampa Bay, FL, but I moved around a lot as a kid. I’ve lived in Shanghai, Pindingshan, Beijing, and Milwaukee, WI. I’m currently based in New York City. </li>
                   <li>I'm half-Chinese and wrote an essay about being biracial in both China and America <a href="https://nuvoices.com/2019/10/29/navigating-my-biracial-identity-as-a-chinese-american-living-in-china/">here</a>.</li>
-                  <li>Before getting into journalism, I briefly interned for the United Nations, the New York Bar Association, and was invited to attend the White House Initiative on Asian Americans and Pacific Islanders’ annual conference in 2013. After working closely with NGOs and advocacy organizations, I learned I’d be better suited to write about world issues (instead of wading through bureaucracy to solve them.)</li>
+                  <li>Before getting into journalism, I briefly interned for the United Nations, the New York Bar Association, and was invited to attend the White House Initiative on Asian Americans and Pacific Islanders’ annual conference in 2013. After working closely with NGOs and advocacy organizations, I learned I’d be better suited to write about world issues (instead of wading through bureaucracy in an attempt to solve them.)</li>
                 </ul>
                 <br />
                 <br />
