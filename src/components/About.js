@@ -10,7 +10,7 @@ function About() {
             </div>
             <div className="col col-12 col-md-6 intro pt-3">
                 <div className="text-center">
-                  <p className="resume"><b><a href="https://docs.google.com/document/d/1dqnIpnWDCMb1pRGx9TJOPMkjtvunbqAiYrNoQtlhQVY/edit">2022 Resume</a> / <a href="https://www.linkedin.com/in/megan-cattel-9627a049/">LinkedIn</a></b></p>                
+                  <p className="resume"><b><a href="https://docs.google.com/document/d/1dqnIpnWDCMb1pRGx9TJOPMkjtvunbqAiYrNoQtlhQVY/edit#">2023 Resume</a> / <a href="https://www.linkedin.com/in/megan-cattel-9627a049/">LinkedIn</a></b></p>                
                 </div>
                 <p><b>Here are some fast facts:</b></p>
                 <ul>
