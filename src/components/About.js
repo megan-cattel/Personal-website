@@ -15,10 +15,12 @@ function About() {
                 <p><b>Here are some fast facts:</b></p>
                 <ul>
                   <li>I use she/her pronouns. </li>
-                  <li>I graduated from Columbia Journalism School’s M.S. program in 2020.</li>
-                  <li>I grew up in Tampa Bay, FL, but I moved around a lot as a kid. I’ve lived in Shanghai, Pindingshan, Beijing, and Milwaukee, WI. I’m currently based in New York City. </li>
+                  <li>I graduated from Columbia Journalism School’s M.S. program in 2020, with a concentration in audio and longform print journalism.</li>
+                  <li>I’m currently based in Tampa, FL and NYC. Before the age of 5, I’ve lived in Shanghai, Milwaukee, Pingdingshan, and Beijing.</li>
+                  <li>Since 2021, I’ve served as podcast editor at NüVoices, a collective which supports underrepresented voices publishing work about China, Taiwan, and Hong Kong. To date, I’ve <a href="https://nuvoices.com/category/podcast/">edited and produced over 20 episodes for this indie podcast!</a></li>
+                  <li>I am a <a href="https://pulitzercenter.org/people/megan-cattel">2022 Pulitzer Center Environmental Science Reporting Fellow</a>.</li>
                   <li>I'm half-Chinese and wrote an essay about being biracial in both China and America <a href="https://nuvoices.com/2019/10/29/navigating-my-biracial-identity-as-a-chinese-american-living-in-china/">here</a>.</li>
-                  <li>Before getting into journalism, I briefly interned for the United Nations, the New York Bar Association, and was invited to attend the White House Initiative on Asian Americans and Pacific Islanders’ annual conference in 2013. After working closely with NGOs and advocacy organizations, I learned I’d be better suited to write about world issues (instead of wading through bureaucracy in an attempt to solve them.)</li>
+                  <li>Before journalism, I was a teacher, au pair, UN intern, and competitive figure skater.  (<a href="https://www.youtube.com/watch?v=ME4ICyXSoFs">Here are some underrated figure skating performances</a> I think you should check out!) </li>
                 </ul>
                 <br />
                 <br />
