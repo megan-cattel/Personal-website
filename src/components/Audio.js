@@ -11,6 +11,10 @@ function Audio() {
                     <p className="small">Below are longform audio stories I pitched, reported, produced, and scripted for WBUR, Boston’s NPR station. As web producer, I also transcribed and designed the layout of these episodes.</p>
                     <ul>
                         <li>
+                            <a href="https://www.wbur.org/endlessthread/2023/02/17/russian-anti-war-youtubers-dissent">The journeys of two Russian anti-war YouTubers</a> (WBUR)
+                        </li>
+                        <iframe src="https://open.spotify.com/embed/episode/48AHhDjJOLhbRm1gTYPcoy?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                        <li>
                             <a href="https://www.wbur.org/endlessthread/2022/11/18/life-death-ai">Life, death, and AI: Can AI help us better understand grief?</a> (WBUR)
                         </li>
                         <iframe src="https://open.spotify.com/embed/episode/6y5BNvmfc6ONdQbnQvDIFI?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -79,7 +83,7 @@ function Audio() {
                         </li>
                         <iframe src="https://open.spotify.com/embed/episode/2gBkdKB1690ptERhF9LRl4?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
                         <li>
-                            <a href="https://nuvoices.com/2022/06/02/nuvoices-podcast-76-a-conversation-with-elaine-hsieh-chou-on-her-debut-novel-disorientation/">Elaine Hsieh Chou on her debut novel Disorientation: They hate us but pretend to be us</a> (NüVoices)
+                            <a href="https://nuvoices.com/2022/06/02/nuvoices-podcast-76-a-conversation-with-elaine-hsieh-chou-on-her-debut-novel-disorientation/">Elaine Hsieh Chou on her debut novel Disorientation: Writing as Cultural Revenge</a> (NüVoices)
                         </li>
                         <iframe src="https://open.spotify.com/embed/episode/2c7p1u1KCeqeRcZZbSMz6a?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
                         <li>
