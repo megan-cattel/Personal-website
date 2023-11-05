@@ -7,13 +7,18 @@ function FactCheck() {
             <div className="col col-12 col-md-8 article">
                 <div className="article-title">
                     <p><b><i>Fact-Checking</i></b></p>
+                    <p className="small">I fact-checked WBUR’s 8-part investigative series, The Gun Machine, a deep dive into America’s most controversial, protected, lethal industry. This series goes all the way back to America’s colonial era to the present, and connects the dots between American arms manufacturers, political loopholes, and the NRA.</p>
                 </div>
                 <ul>
+                    <iframe src="https://open.spotify.com/embed/episode/4za9pqpU49K3M0AkRTEnx7?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
                     <li>
                         <a href="https://www.npr.org/2021/10/08/1044267583/first-female-principal-chief-of-the-cherokee-nation-will-be-featured-on-u-s-coin">First female principal chief of the Cherokee Nation will be featured on US coin</a> (StoryCorps, NPR Morning Edition)
                     </li>
                     <li>
                         <a href="https://storycorps.org/stories/i-dont-break-how-two-people-found-strength-in-one-another-after-police-violence/">“I don't break”: How Two People Found Strength in One Another After Police Violence</a> (StoryCorps, NPR Morning Edition)
+                    </li>
+                    <li>
+                        <a href="https://www.npr.org/2022/03/18/1087448526/carlisle-indian-industrial-school-forced-native-american-children-to-assimilate">Carlisle Indian Industrial School forced Native American children to assimilate</a> (StoryCorps, NPR Morning Edition)
                     </li>
                     <li>
                         <a href="https://www.kansas.com/news/local/article255975537.html#storylink=cpy">Damon Young and Martin Garcia have a conversation on One Small Step in Wichita</a> (StoryCorps, The Wichita Eagle)

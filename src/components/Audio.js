@@ -11,6 +11,10 @@ function Audio() {
                     <p className="small">Below are longform audio stories I pitched, reported, produced, and scripted for WBUR, Boston’s NPR station. As web producer, I also transcribed and designed the layout of these episodes.</p>
                     <ul>
                         <li>
+                            <a href="https://www.wbur.org/endlessthread/2023/03/17/pawn-man-world-war-ii-nanjing-album">Pawn Man</a> (WBUR)
+                        </li>
+                        <iframe src="https://open.spotify.com/embed/episode/3Sg5PkYzLnwLTHyX9oXIXv?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
+                        <li>
                             <a href="https://www.wbur.org/endlessthread/2023/02/17/russian-anti-war-youtubers-dissent">The journeys of two Russian anti-war YouTubers</a> (WBUR)
                         </li>
                         <iframe src="https://open.spotify.com/embed/episode/48AHhDjJOLhbRm1gTYPcoy?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
