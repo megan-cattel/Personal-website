@@ -10,7 +10,7 @@ function FactCheck() {
                     <p className="small">I fact-checked WBUR’s 8-part investigative series, The Gun Machine, a deep dive into America’s most controversial, protected, lethal industry. This series goes all the way back to America’s colonial era to the present, and connects the dots between American arms manufacturers, political loopholes, and the NRA. Listen to all the episodes of The Gun Machine <a href="https://www.npr.org/podcasts/1108749261/the-gun-machine">here</a>.</p>
                 </div>
                 <ul>
-                    <iframe src="https://open.spotify.com/embed/episode/4za9pqpU49K3M0AkRTEnx7?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                    <iframe title="gun-machine" src="https://open.spotify.com/embed/episode/4za9pqpU49K3M0AkRTEnx7?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
                     <li>
                         <a href="https://www.npr.org/2021/10/08/1044267583/first-female-principal-chief-of-the-cherokee-nation-will-be-featured-on-u-s-coin">First female principal chief of the Cherokee Nation will be featured on US coin</a> (StoryCorps, NPR Morning Edition)
                     </li>
